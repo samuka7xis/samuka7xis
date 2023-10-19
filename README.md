@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🥇
+  MEU NOME É SAMUEL MIRANDA
+* SOU UM ESTUDANTE DO COLÉGIO NEWTON FERREIRA DA COSTA NO ESTADO DO PARANÁ
+* JÁ FIZ ALGUNS PROJETOS NO JAVASCRIPT
+* UTILIZO ESSE ESPAÇO PARA COMPARTILHAR OS PROJETOS QUE SERÃO DESENVOLVIDOS POR MIM
 
-<!--
-**samuka7xis/samuka7xis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### SE QUISER SABER MAIS ENTRE EM CONTATO COMIGO 💼
 
-Here are some ideas to get you started:
+samuel.miranda.almeida@escola.pr.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/qL5jI7Bl9vkAAAAC/neymar-glove.gif)
+
+
