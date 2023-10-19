@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil 🥇
+### Boas Vindas ao Meu Perfil 🥇
   Meu Nome é Samuel Miranda
 * SOU UM ESTUDANTE DO COLÉGIO NEWTON FERREIRA DA COSTA NO ESTADO DO PARANÁ
 * JÁ FIZ ALGUNS PROJETOS NO JAVASCRIPT
